@@ -1,0 +1,94 @@
+{
+    "FileMetadata": {
+        "LastSavedVTubeStudioVersion": "1.28.1",
+        "LastSavedPlatform": "Steam",
+        "LastSavedDateUTC": "Saturday, 30 December 2023, 15:51:17",
+        "LastSavedDateLocalTime": "Saturday, 30 December 2023, 23:51:17",
+        "LastSavedDateUnixMillisecondTimestamp": "1703951477365"
+    },
+    "SceneName": "",
+    "SceneGroupName": "",
+    "SceneModel": "",
+    "SceneID": "",
+    "Items": [
+        {
+            "ItemName": "bird2",
+            "ItemObjectInScene": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "ItemFileName": "bird2",
+            "ItemInstanceUUID": "4dac4c6663f243189a561a46024ab23e",
+            "Selected": true,
+            "TrackingModel": true,
+            "IsAnimated": false,
+            "IsVideo": false,
+            "IsModel": true,
+            "IsCensored": false,
+            "IsFlipped": false,
+            "IsLocked": false,
+            "Smoothing": 0.0,
+            "Order": 1,
+            "FPS": 0.0,
+            "IsPinned": true,
+            "PinnedTo": "ArtMesh129",
+            "PinnedModel_Live2D": "MujiMoe_2",
+            "PinnedModel_VTS": "MujiMoe-Auto",
+            "PinnedModel_InternalID": "4d8c9684d1494e9c91911709a7a3bbff",
+            "PinnedVertexIDs": "3 2 4 31 32 5",
+            "PinnedVertexPositions": [
+                {
+                    "x": -0.07272970676422119,
+                    "y": 0.23315763473510743,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.06726397573947907,
+                    "y": 0.24621720612049104,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.07756946980953217,
+                    "y": 0.21997569501399995,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.061367571353912356,
+                    "y": 0.23633351922035218,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.06552848219871521,
+                    "y": 0.22349783778190614,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.08174410462379456,
+                    "y": 0.2073119878768921,
+                    "z": 0.0
+                }
+            ],
+            "PinnedVertexCenterOffset": {
+                "x": -0.0341457799077034,
+                "y": 0.021993666887283326,
+                "z": 0.0
+            },
+            "Size": 0.011553804390132428,
+            "ModelScaleMultiplier": 0.008349455893039704,
+            "Rotation": 57.05067825317383,
+            "Position": {
+                "x": -0.1508089005947113,
+                "y": 0.21048305928707124,
+                "z": 0.0
+            },
+            "Group": "",
+            "Scene": "",
+            "AssetType": 6,
+            "FromWorkshop": false,
+            "FromHotkey": false,
+            "FromAPI": false,
+            "FadeTime": 0.5,
+            "Plugin": ""
+        }
+    ]
+}

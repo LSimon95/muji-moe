@@ -1,0 +1,6 @@
+#ifndef VERSION_CONFIG_H
+#define VERSION_CONFIG_H
+
+#define VOICE_CHAT "0.1.0"
+
+#endif // VERSION_CONFIG_H

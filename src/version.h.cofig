@@ -1,0 +1,6 @@
+#ifndef VERSION_CONFIG_H
+#define VERSION_CONFIG_H
+
+#cmakedefine VOICE_CHAT "@VOICE_CHAT@"
+
+#endif // VERSION_CONFIG_H

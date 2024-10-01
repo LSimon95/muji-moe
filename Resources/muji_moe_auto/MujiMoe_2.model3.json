@@ -1,0 +1,167 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "MujiMoe_2.moc3",
+		"Textures": [
+			"MujiMoe_2.4096/texture_00.png",
+			"MujiMoe_2.4096/texture_01.png",
+			"MujiMoe_2.4096/texture_02.png",
+			"MujiMoe_2.4096/texture_03.png"
+		],
+		"Physics": "MujiMoe_2.physics3.json",
+		"DisplayInfo": "MujiMoe_2.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "生气",
+				"File": "expression/angry.exp3.json"
+			},
+			{
+				"Name": "尴尬",
+				"File": "expression/awkward.exp3.json"
+			},
+			{
+				"Name": "开心",
+				"File": "expression/bloodshotEye.exp3.json"
+			},
+			{
+				"Name": "得意",
+				"File": "expression/complacent.exp3.json"
+			},
+			{
+				"Name": "严肃",
+				"File": "expression/disgusted.exp3.json"
+			},
+			{
+				"Name": "害怕",
+				"File": "expression/fear.exp3.json"
+			},
+			{
+				"Name": "温柔",
+				"File": "expression/gameplaying.exp3.json"
+			},
+			{
+				"Name": "感激",
+				"File": "expression/grateful.exp3.json"
+			},
+			{
+				"Name": "开心",
+				"File": "expression/happy.exp3.json"
+			},
+			{
+				"Name": "深情",
+				"File": "expression/melting.exp3.json"
+			},
+			{
+				"Name": "伤心",
+				"File": "expression/sad.exp3.json"
+			},
+			{
+				"Name": "开心",
+				"File": "expression/shortHair.exp3.json"
+			},
+			{
+				"Name": "严肃",
+				"File": "expression/solemn.exp3.json"
+			},
+			{
+				"Name": "开心",
+				"File": "expression/soulful.exp3.json"
+			},
+			{
+				"Name": "严肃",
+				"File": "expression/thinkful.exp3.json"
+			}
+
+		],
+		"Motions": {
+			"idle": [
+				{
+					"File": "motions/idel1.motion3.json"
+				},
+				{
+					"File": "motions/idel2.motion3.json"
+				},
+				{
+					"File": "motions/idel3.motion3.json"
+				}
+			],
+			"affectionate": [
+				{
+					"File": "motions/affectionate.motion3.json"
+				}
+			],
+			"angry": [
+				{
+					"File": "motions/angry.motion3.json"
+				}
+			],
+			"cheerful": [
+				{
+					"File": "motions/cheerful.motion3.json"
+				}
+			],
+			"complacent": [
+				{
+					"File": "motions/complacent.motion3.json"
+				}
+			],
+			"disgruntled": [
+				{
+					"File": "motions/disgruntled.motion3.json"
+				}
+			],
+			"embarrassed": [
+				{
+					"File": "motions/embarrassed.motion3.json"
+				}
+			],
+			"gentle": [
+				{
+					"File": "motions/gentle.motion3.json"
+				}
+			],
+			"sad": [
+				{
+					"File": "motions/sad.motion3.json"
+				}
+			],
+			"serious": [
+				{
+					"File": "motions/serious.motion3.json"
+				}
+			],
+			"singing": [
+				{
+					"File": "motions/singing.motion3.json"
+				}
+			],
+			"thankful": [
+				{
+					"File": "motions/thankful.motion3.json"
+				}
+			],
+			"thinking": [
+				{
+					"File": "motions/thinking.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
