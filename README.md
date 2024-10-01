@@ -1,5 +1,5 @@
 # muji_moe
-Lightweight desktop voice chatbot developed by [Reecho.ai](www.reecho.ai), using Live2D Cubism SDK and C++. Reecho.ai is a group that focuses on multilanguage speech synthesis (Chinese, English...), and this project is a part of our research on voice chatbots. 
+Lightweight desktop voice chatbot developed by [Reecho.ai](https://www.reecho.ai), using Live2D Cubism SDK and C++. Reecho.ai is a group that focuses on multilanguage speech synthesis (Chinese, English...), and this project is a part of our research on voice chatbots. 
 In this project, we use Live2D Cubism SDK to create a 2D character to interact with users. Customized OpenAI API is supported in this project to generate chat content and synthesize speech using Reecho.ai's speech synthesis engine. Furthermore, switching to RTC/WS mode can get the low-latency voice chat experience (~800 ms) but cost more tokens.
 Live2D MUJI_MOE model is created by XWdit and is for non-commercial use only.
 
